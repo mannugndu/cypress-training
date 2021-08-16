@@ -1,0 +1,14 @@
+{
+  "name": "cypress_project",
+  "version": "1.0.0",
+  "description": "Cypress Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
